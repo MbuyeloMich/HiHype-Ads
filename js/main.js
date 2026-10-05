@@ -180,7 +180,7 @@
             gtag("event", "conversion", {
               send_to: "AW-17583065677/iq46CIjZhZ4bEM2UocBB",
               value: 1.0,
-              currency: "INR"
+              currency: "ZAR"
             });
           }
           if (typeof rdt === "function") {

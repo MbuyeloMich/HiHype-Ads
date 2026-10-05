@@ -4,7 +4,7 @@
 
 <rect x="260" y="72" width="280" height="58" rx="10" fill="#FFFFFF" stroke="#0C0C0C" stroke-width="1.5"/>
 <text x="400" y="98" text-anchor="middle" font-size="13" font-weight="700" fill="#0C0C0C">1 REAL SALE</text>
-<text x="400" y="118" text-anchor="middle" font-size="10.5" fill="#7A7A78">$400 PURCHASE, ONE CUSTOMER</text>
+<text x="400" y="118" text-anchor="middle" font-size="10.5" fill="#7A7A78">R400 PURCHASE, ONE CUSTOMER</text>
 
 <path d="M400,130 L400,150 L150,150 L150,178" fill="none" stroke="#0C0C0C" stroke-width="1.5" marker-end="url(#arr1)"/>
 <path d="M400,130 L400,178" fill="none" stroke="#0C0C0C" stroke-width="1.5" marker-end="url(#arr1)"/>

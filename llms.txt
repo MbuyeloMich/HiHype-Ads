@@ -1,0 +1,63 @@
+# Hi Hype Ads
+
+> Growth and performance marketing agency building complete customer acquisition systems across Google Ads, Meta Ads, SEO, and AI search. Based in the United States. No long-term contracts: clients see results before committing to an agency relationship.
+
+Hi Hype Ads runs three core offers: the Google Ads Proof Program (first month R14,400), the Meta Growth Proof Program (first month R18,000), and SEO Autopilot (AI-assisted SEO, R9,000/month). All engagements are month-to-month, no lock-in contracts. Founder is Akshat Singh.
+
+## Services
+
+- [Google Ads Proof Program](https://goviralads.agency/google-ads): Google Ads account audit, rebuild, and management. First month $800.
+- [Google Ads Management in Salt Lake City, Utah](https://goviralads.agency/salt-lake-city-google-ads-agency): Google Ads Proof Program for Salt Lake City, Orem, Provo and Utah businesses. First month $800.
+- [Google Ads Management in Atlanta, Georgia](https://goviralads.agency/atlanta-google-ads-agency): Google Ads Proof Program for Atlanta, Marietta, Sandy Springs and Georgia businesses. First month $800.
+- [Google Ads Management in Houston, Texas](https://goviralads.agency/houston-google-ads-agency): Google Ads Proof Program for Houston, Sugar Land, The Woodlands and Texas businesses. First month $800.
+- [Google Ads Management in Dallas, Texas](https://goviralads.agency/dallas-google-ads-agency): Google Ads Proof Program for Dallas, Fort Worth, Plano and Texas businesses. First month $800.
+- [Google Ads Management in Kansas City, Missouri](https://goviralads.agency/kansas-city-google-ads-agency): Google Ads Proof Program for Kansas City, Overland Park, Olathe and Missouri/Kansas businesses. First month $800.
+- [Google Ads Management in Austin, Texas](https://goviralads.agency/austin-google-ads-agency): Google Ads Proof Program for Austin, Round Rock, Cedar Park and Central Texas businesses. First month $800.
+- [Google Ads Management in Fort Lauderdale, Florida](https://goviralads.agency/fort-lauderdale-google-ads-agency): Google Ads Proof Program for Fort Lauderdale, Pompano Beach, Hollywood and South Florida businesses. First month $800.
+- [Google Ads Management in San Diego, California](https://goviralads.agency/san-diego-google-ads-agency): Google Ads Proof Program for San Diego, Chula Vista, Carlsbad and San Diego County businesses. First month $800.
+- [Google Ads Management in Miami, Florida](https://goviralads.agency/miami-google-ads-agency): Google Ads Proof Program for Miami, Miami Beach, Coral Gables and South Florida businesses. First month $800.
+- [Google Ads Management on Long Island, New York](https://goviralads.agency/long-island-google-ads-agency): Google Ads Proof Program for Long Island, Hempstead, Huntington and Nassau/Suffolk County businesses. First month $800.
+- [Free Google Ads Audit For Ecommerce Brands](https://goviralads.agency/google-ads-audit-ecom): Live account audit for ecommerce Google Ads accounts, 3 biggest leaks costing sales, free, no obligation.
+- [Free Google Ads Audit For Lead Gen & Service Businesses](https://goviralads.agency/google-ads-audit-leadgen): Live account audit for lead-gen and service-business Google Ads accounts, 3 biggest leaks costing leads, free, no obligation.
+- [Meta Growth Proof Program](https://goviralads.agency/meta-ads): Meta (Facebook/Instagram) Ads rebuild and management. First month $1,000.
+- [SEO Autopilot](https://goviralads.agency/seo-autopilot): Ongoing AI-assisted SEO and AI-search optimization. $500/month after setup.
+- [Services overview](https://goviralads.agency/services)
+- [Growth Playbook](https://goviralads.agency/growth-playbook)
+
+## Company
+
+- [About](https://goviralads.agency/about): Founder background and agency positioning.
+- [Contact](https://goviralads.agency/contact): Book a strategy call.
+- [No long-term contracts](https://goviralads.agency/no-long-term-contracts): Why every engagement is month-to-month.
+
+## Articles
+
+- [Attribution Windows Explained: Why Your Ad Platforms Never Agree](https://goviralads.agency/attribution-windows-explained): Google Ads defaults to a 30-day click window, Meta defaults to 7-day click plus 1-day view, and GA4 runs a data-driven model that silently falls back to last-click below 400 conversions. Why adding up platform-reported conversions always overcounts real sales.
+- [Why Most Landing Pages Kill Your Google Ads Performance](https://goviralads.agency/landing-pages-kill-google-ads-performance): The median dedicated landing page converts at 6.6% (Unbounce) and Google Ads search averages 8.18% (LocaliQ), but a general website page averages just 2.35% (WordStream). Five real reasons landing pages underconvert Google Ads traffic, from message match to mobile testing.
+- [The 5 Google Ads Metrics That Actually Predict Revenue](https://goviralads.agency/google-ads-metrics-that-predict-revenue): CTR and impressions don't predict revenue. Conversion rate, cost per conversion weighed against margin, revenue per click, LTV:CAC ratio and profit-adjusted ROAS do, with real Hi Hype client account data from 632% to 1,800% ROAS.
+- [AI Overviews Are Already Cutting Your Google Ads CTR By 26%](https://goviralads.agency/ai-overviews-google-ads-ctr): Paid Google Ads CTR falls 26% and organic CTR falls 38% on queries where an AI Overview appears (Seer Interactive, April 2026). Citation status inside the AI Overview, not its mere presence, is the biggest lever advertisers control.
+- [In-House vs. Agency: The Real Cost Comparison Nobody Shows You](https://goviralads.agency/in-house-vs-agency-marketing-cost-2026): A full-time in-house marketer costs $144K to $161K a year fully loaded (Salary.com, SHRM), versus $500 to $20,000+ a month for an agency retainer. The real math on when each one actually makes sense.
+- [The Real Reason Your Facebook Ads Stopped Working (It's Not iOS)](https://goviralads.agency/facebook-ads-stopped-working-not-ios): iOS App Tracking Transparency launched in April 2021 and is five years old. The real cause of most Meta tracking gaps today is Safari's Intelligent Tracking Prevention and missing Conversions API setup, with a real client's before/after fix.
+- [Why "PPC Agency Near Me" Is The Wrong Way To Search For One](https://goviralads.agency/ppc-agency-near-me): "Near me" search behavior is built for physical, in-person decisions. PPC management happens entirely inside cloud ad dashboards, so proximity isn't what predicts a good agency.
+- [Performance Max Stopped Being A Black Box In 2026. Most Brands Still Run It Like One.](https://goviralads.agency/ecommerce-ppc-2026-performance-max): What actually changed in Performance Max this year, the Search/PMax keyword overlap most accounts don't know they have, and why Standard Shopping still isn't dead.
+- [Why Your Meta Ads Cost Per Lead Is Rising (And It's Not The Algorithm)](https://goviralads.agency/meta-ads-cost-per-lead-rising): Meta's own Q2 2026 earnings and Tinuiti's benchmark data show rising CPL is auction economics, not the algorithm, and how one client cut CPL 50% anyway.
+- [Local Service PPC Doesn't Fail On Clicks. It Fails On Bad-Fit Leads.](https://goviralads.agency/local-service-business-ppc): Local service PPC breaks differently than e-commerce PPC. The playbook for fixing the service-radius, speed-to-lead, and junk-lead leaks before you spend more.
+- [Google Ads Quality Score Still Decides What You Pay, Even With AI Bidding](https://goviralads.agency/google-ads-quality-score-ai-bidding): Google labels Quality Score a diagnostic metric now, but Ad Rank still runs on the same three signals. Why a low score still inflates CPC under Smart Bidding, and what replaced the old single-keyword-ad-group playbook.
+- [Meta Ads vs. Google Ads: Where Should Your First Dollar Go in 2026](https://goviralads.agency/meta-ads-vs-google-ads-first-dollar): Google Ads captures demand that already exists. Meta Ads creates demand that doesn't exist yet. How to tell which one deserves your first ad dollar, with real ROAS and cost-per-lead numbers from both.
+- [Your Website Doesn't Exist To ChatGPT Yet. Here's The 12-Point Fix.](https://goviralads.agency/aeo-checklist-cited-by-ai-search): A 12-point checklist covering crawler access, schema, and content structure to get cited by ChatGPT, Perplexity, and Google AI Overviews.
+- [Your Google Ads Account Is Leaking Budget. Find It In 20 Minutes.](https://goviralads.agency/google-ads-self-audit-checklist): A free, step-by-step 20-minute checklist for auditing your own Google Ads account: search terms, negative keywords, Quality Score, conversion tracking, match types, and impression share lost to budget.
+- [What Google Ads Management Actually Costs In The US In 2026](https://goviralads.agency/google-ads-management-cost-2026): The four real pricing models agencies use, how percentage-of-spend fees scale as budgets grow, flat-fee tiers by account size, and the setup fees and contract terms most quotes leave out.
+- [SEO and PPC Together: Why Running Both Beats Picking One](https://goviralads.agency/seo-and-ppc-together): Why the best accounts run SEO and PPC in the same strategy, how the search-term data feeds both channels, and how the budget split should shift over time.
+- [PPC Management vs. PPC Agency: What's Actually the Difference](https://goviralads.agency/ppc-management-vs-ppc-agency): The real scope difference between buying execution work and hiring a full agency, and how to tell which one you're being sold.
+- [Hiring a Google Ads Agency in the US in 2026](https://goviralads.agency/google-ads-agency-us-2026): What changed in AI bidding, conversion tracking, and how to vet an agency.
+- [Hiring a Meta Ads Agency in the US in 2026](https://goviralads.agency/meta-ads-agency-us-2026): Why creative now decides more than targeting, and what to ask about tracking.
+- [Hiring an SEO Agency in the US in 2026](https://goviralads.agency/seo-agency-us-2026): Why AI answer engines changed the evaluation, and how to spot a rebrand vs real capability.
+- [The Death of Traditional SEO](https://goviralads.agency/death-of-traditional-seo)
+- [Answer Engine Optimization (AEO)](https://goviralads.agency/answer-engine-optimization-aeo)
+- [Google Ads Account Rebuild](https://goviralads.agency/google-ads-account-rebuild)
+- [Meta Ads Creative Strategy](https://goviralads.agency/meta-ads-creative-strategy)
+
+## Optional
+
+- [Privacy Policy](https://goviralads.agency/privacy-policy)
+- [Terms](https://goviralads.agency/terms)

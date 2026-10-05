@@ -189,7 +189,7 @@
         })
         .catch(function () {
           if (msg) {
-            msg.textContent = "✕ Something went wrong. Please email hello@goviralads.agency instead.";
+            msg.textContent = "✕ Something went wrong. Please email hello@hihypeads.co.za instead.";
             msg.className = "form-msg is-err";
           }
         })
